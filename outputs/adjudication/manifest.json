@@ -1,0 +1,202 @@
+[
+  {
+    "example_id": "slake_en::test::12474",
+    "slake_image": "imgs/xmlab375/source.jpg",
+    "pmc_article": "PMC6195915",
+    "pmc_figure": "PMC6195915_fig1_384231.jpg",
+    "dist_b16": 0.01241999864578247,
+    "dist_so400m": null,
+    "flagged_by": "b16",
+    "png": "outputs/adjudication/slake_en_test_12474.png"
+  },
+  {
+    "example_id": "slake_en::test::12504",
+    "slake_image": "imgs/xmlab385/source.jpg",
+    "pmc_article": "PMC9062550",
+    "pmc_figure": "PMC9062550_jgf2524-fig-0001_270404.jpg",
+    "dist_b16": 0.013674497604370117,
+    "dist_so400m": 0.012780487537384033,
+    "flagged_by": "b16,so400m",
+    "png": "outputs/adjudication/slake_en_test_12504.png"
+  },
+  {
+    "example_id": "slake_en::test::12369",
+    "slake_image": "imgs/xmlab338/source.jpg",
+    "pmc_article": "PMC6684717",
+    "pmc_figure": "PMC6684717_Fig13_20631.jpg",
+    "dist_b16": 0.0128021240234375,
+    "dist_so400m": 0.015258431434631348,
+    "flagged_by": "b16,so400m",
+    "png": "outputs/adjudication/slake_en_test_12369.png"
+  },
+  {
+    "example_id": "slake_en::test::11994",
+    "slake_image": "imgs/xmlab142/source.jpg",
+    "pmc_article": "PMC1277010",
+    "pmc_figure": "PMC1277010_F1_3739.jpg",
+    "dist_b16": 0.013141632080078125,
+    "dist_so400m": null,
+    "flagged_by": "b16",
+    "png": "outputs/adjudication/slake_en_test_11994.png"
+  },
+  {
+    "example_id": "slake_en::test::12384",
+    "slake_image": "imgs/xmlab344/source.jpg",
+    "pmc_article": "PMC9062550",
+    "pmc_figure": "PMC9062550_jgf2524-fig-0001_270404.jpg",
+    "dist_b16": 0.013417363166809082,
+    "dist_so400m": null,
+    "flagged_by": "b16",
+    "png": "outputs/adjudication/slake_en_test_12384.png"
+  },
+  {
+    "example_id": "slake_en::test::12961",
+    "slake_image": "imgs/xmlab82/source.jpg",
+    "pmc_article": "PMC5728928",
+    "pmc_figure": "PMC5728928_F1_252744.jpg",
+    "dist_b16": null,
+    "dist_so400m": 0.013706624507904053,
+    "flagged_by": "so400m",
+    "png": "outputs/adjudication/slake_en_test_12961.png"
+  },
+  {
+    "example_id": "slake_en::test::12489",
+    "slake_image": "imgs/xmlab378/source.jpg",
+    "pmc_article": "PMC9021672",
+    "pmc_figure": "PMC9021672_f5_257345.jpg",
+    "dist_b16": 0.014359593391418457,
+    "dist_so400m": null,
+    "flagged_by": "b16",
+    "png": "outputs/adjudication/slake_en_test_12489.png"
+  },
+  {
+    "example_id": "slake_en::test::12031",
+    "slake_image": "imgs/xmlab160/source.jpg",
+    "pmc_article": "PMC2531090",
+    "pmc_figure": "PMC2531090_F1_27449.jpg",
+    "dist_b16": 0.014919877052307129,
+    "dist_so400m": 0.015162467956542969,
+    "flagged_by": "b16,so400m",
+    "png": "outputs/adjudication/slake_en_test_12031.png"
+  },
+  {
+    "example_id": "slake_en::test::12519",
+    "slake_image": "imgs/xmlab386/source.jpg",
+    "pmc_article": "PMC2569031",
+    "pmc_figure": "PMC2569031_F2_28934.jpg",
+    "dist_b16": 0.015146255493164062,
+    "dist_so400m": null,
+    "flagged_by": "b16",
+    "png": "outputs/adjudication/slake_en_test_12519.png"
+  },
+  {
+    "example_id": "slake_en::test::12339",
+    "slake_image": "imgs/xmlab320/source.jpg",
+    "pmc_article": "PMC4235038",
+    "pmc_figure": "PMC4235038_F1_337068.jpg",
+    "dist_b16": 0.015265464782714844,
+    "dist_so400m": null,
+    "flagged_by": "b16",
+    "png": "outputs/adjudication/slake_en_test_12339.png"
+  },
+  {
+    "example_id": "slake_en::test::12459",
+    "slake_image": "imgs/xmlab374/source.jpg",
+    "pmc_article": "PMC8424947",
+    "pmc_figure": "PMC8424947_Fig3_53838.jpg",
+    "dist_b16": 0.015497446060180664,
+    "dist_so400m": null,
+    "flagged_by": "b16",
+    "png": "outputs/adjudication/slake_en_test_12459.png"
+  },
+  {
+    "example_id": "slake_en::test::12023",
+    "slake_image": "imgs/xmlab159/source.jpg",
+    "pmc_article": "PMC8229150",
+    "pmc_figure": "PMC8229150_diagnostics-11-01069-f004_477623.jpg",
+    "dist_b16": 0.015790462493896484,
+    "dist_so400m": null,
+    "flagged_by": "b16",
+    "png": "outputs/adjudication/slake_en_test_12023.png"
+  },
+  {
+    "example_id": "slake_en::test::12249",
+    "slake_image": "imgs/xmlab274/source.jpg",
+    "pmc_article": "PMC7953744",
+    "pmc_figure": "PMC7953744_Fig1_389401.jpg",
+    "dist_b16": 0.015867531299591064,
+    "dist_so400m": null,
+    "flagged_by": "b16",
+    "png": "outputs/adjudication/slake_en_test_12249.png"
+  },
+  {
+    "example_id": "slake_en::test::12399",
+    "slake_image": "imgs/xmlab350/source.jpg",
+    "pmc_article": "PMC6027734",
+    "pmc_figure": "PMC6027734_Fig2_336174.jpg",
+    "dist_b16": 0.016258835792541504,
+    "dist_so400m": null,
+    "flagged_by": "b16",
+    "png": "outputs/adjudication/slake_en_test_12399.png"
+  },
+  {
+    "example_id": "slake_en::test::12106",
+    "slake_image": "imgs/xmlab224/source.jpg",
+    "pmc_article": "PMC8992766",
+    "pmc_figure": "PMC8992766_F1_247118.jpg",
+    "dist_b16": 0.016385257244110107,
+    "dist_so400m": null,
+    "flagged_by": "b16",
+    "png": "outputs/adjudication/slake_en_test_12106.png"
+  },
+  {
+    "example_id": "slake_en::test::12207",
+    "slake_image": "imgs/xmlab253/source.jpg",
+    "pmc_article": "PMC8686661",
+    "pmc_figure": "PMC8686661_Fig1_142678.jpg",
+    "dist_b16": 0.016531705856323242,
+    "dist_so400m": null,
+    "flagged_by": "b16",
+    "png": "outputs/adjudication/slake_en_test_12207.png"
+  },
+  {
+    "example_id": "slake_en::test::12822",
+    "slake_image": "imgs/xmlab557/source.jpg",
+    "pmc_article": "PMC4302363",
+    "pmc_figure": "PMC4302363_fig1_352081.jpg",
+    "dist_b16": 0.016809463500976562,
+    "dist_so400m": null,
+    "flagged_by": "b16",
+    "png": "outputs/adjudication/slake_en_test_12822.png"
+  },
+  {
+    "example_id": "slake_en::test::12834",
+    "slake_image": "imgs/xmlab561/source.jpg",
+    "pmc_article": "PMC5815738",
+    "pmc_figure": "PMC5815738_F3_276750.jpg",
+    "dist_b16": 0.017700552940368652,
+    "dist_so400m": null,
+    "flagged_by": "b16",
+    "png": "outputs/adjudication/slake_en_test_12834.png"
+  },
+  {
+    "example_id": "slake_en::test::12309",
+    "slake_image": "imgs/xmlab312/source.jpg",
+    "pmc_article": "PMC2569031",
+    "pmc_figure": "PMC2569031_F2_28934.jpg",
+    "dist_b16": 0.017891645431518555,
+    "dist_so400m": null,
+    "flagged_by": "b16",
+    "png": "outputs/adjudication/slake_en_test_12309.png"
+  },
+  {
+    "example_id": "slake_en::test::11987",
+    "slake_image": "imgs/xmlab135/source.jpg",
+    "pmc_article": "PMC8103267",
+    "pmc_figure": "PMC8103267_tropicalmed-06-00040-f001_435272.jpg",
+    "dist_b16": 0.017960786819458008,
+    "dist_so400m": null,
+    "flagged_by": "b16",
+    "png": "outputs/adjudication/slake_en_test_11987.png"
+  }
+]

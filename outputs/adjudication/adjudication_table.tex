@@ -1,0 +1,29 @@
+\begin{longtable}{llllcl}
+\caption{Manual adjudication of all 20 distinct SLAKE-En images flagged by the image nearest-neighbour detector under either SigLIP backbone, ordered by strictest (smallest) cosine distance. Distances are to the nearest PMC-OA-beta figure; ``flag'' lists the backbone(s) that fired. Every flagged pair is the same imaging modality and projection; the verdict column records whether visual inspection of the rendered panel (\texttt{outputs/adjudication/}) supports an exact duplicate. Exact pixel-duplication is supported in at most one case; the remaining pairs are same-view images of different patients.}\label{tab:adjudication}\\
+\toprule
+SLAKE example & SLAKE img & PMC article & PMC figure & cos-dist & verdict \\
+\midrule
+\endfirsthead
+\toprule SLAKE example & SLAKE img & PMC article & PMC figure & cos-dist & verdict \\ \midrule \endhead
+12474 & \texttt{xmlab375} & PMC6195915 & \texttt{PMC6195915\_fig1\_384231$\dots$} & 0.0124 & same-view, different patient \\
+12504 & \texttt{xmlab385} & PMC9062550 & \texttt{PMC9062550\_jgf2524-fig$\dots$} & 0.0128 & ambiguous (possible duplicate) \\
+12369 & \texttt{xmlab338} & PMC6684717 & \texttt{PMC6684717\_Fig13\_20631$\dots$} & 0.0128 & same-view, different patient \\
+11994 & \texttt{xmlab142} & PMC1277010 & \texttt{PMC1277010\_F1\_3739.jpg} & 0.0131 & same-view, different patient \\
+12384 & \texttt{xmlab344} & PMC9062550 & \texttt{PMC9062550\_jgf2524-fig$\dots$} & 0.0134 & same-view, different patient \\
+12961 & \texttt{xmlab82} & PMC5728928 & \texttt{PMC5728928\_F1\_252744.jpg} & 0.0137 & same-view, different patient \\
+12489 & \texttt{xmlab378} & PMC9021672 & \texttt{PMC9021672\_f5\_257345.jpg} & 0.0144 & same-view, different patient \\
+12031 & \texttt{xmlab160} & PMC2531090 & \texttt{PMC2531090\_F1\_27449.jpg} & 0.0149 & same-view, different patient \\
+12519 & \texttt{xmlab386} & PMC2569031 & \texttt{PMC2569031\_F2\_28934.jpg} & 0.0151 & same-view, different patient \\
+12339 & \texttt{xmlab320} & PMC4235038 & \texttt{PMC4235038\_F1\_337068.jpg} & 0.0153 & same-view, different patient \\
+12459 & \texttt{xmlab374} & PMC8424947 & \texttt{PMC8424947\_Fig3\_53838.$\dots$} & 0.0155 & same-view, different patient \\
+12023 & \texttt{xmlab159} & PMC8229150 & \texttt{PMC8229150\_diagnostics$\dots$} & 0.0158 & same-view, different patient \\
+12249 & \texttt{xmlab274} & PMC7953744 & \texttt{PMC7953744\_Fig1\_389401$\dots$} & 0.0159 & same-view, different patient \\
+12399 & \texttt{xmlab350} & PMC6027734 & \texttt{PMC6027734\_Fig2\_336174$\dots$} & 0.0163 & same-view, different patient \\
+12106 & \texttt{xmlab224} & PMC8992766 & \texttt{PMC8992766\_F1\_247118.jpg} & 0.0164 & same-view, different patient \\
+12207 & \texttt{xmlab253} & PMC8686661 & \texttt{PMC8686661\_Fig1\_142678$\dots$} & 0.0165 & same-view, different patient \\
+12822 & \texttt{xmlab557} & PMC4302363 & \texttt{PMC4302363\_fig1\_352081$\dots$} & 0.0168 & same-view, different patient \\
+12834 & \texttt{xmlab561} & PMC5815738 & \texttt{PMC5815738\_F3\_276750.jpg} & 0.0177 & same-view, different patient \\
+12309 & \texttt{xmlab312} & PMC2569031 & \texttt{PMC2569031\_F2\_28934.jpg} & 0.0179 & same-view, different patient \\
+11987 & \texttt{xmlab135} & PMC8103267 & \texttt{PMC8103267\_tropicalmed$\dots$} & 0.0180 & same-view, different patient \\
+\bottomrule
+\end{longtable}
