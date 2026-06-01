@@ -1,0 +1,41 @@
+{
+  "alpha": 0.01,
+  "threshold": 0.015378701500594616,
+  "null_quantiles": {
+    "min": -1.1920928955078125e-07,
+    "q01": 0.015378701500594616,
+    "q05": 0.02236274816095829,
+    "q25": 0.03836645185947418,
+    "q50": 0.054369837045669556,
+    "max": 0.3732507824897766,
+    "n_null": 5000
+  },
+  "benchmarks": [
+    {
+      "benchmark": "slake_en",
+      "n_images": 96,
+      "n_images_flagged": 4,
+      "fraction_images_flagged": 0.041666666666666664,
+      "n_qa": 1061,
+      "n_qa_flagged": 48,
+      "nn_distance_min": 0.012780487537384033,
+      "nn_distance_q01": 0.013660317286849022,
+      "nn_distance_q05": 0.016221538186073303,
+      "nn_distance_q50": 0.030713945627212524,
+      "nn_distance_max": 0.10793864727020264
+    },
+    {
+      "benchmark": "pathvqa",
+      "n_images": 6719,
+      "n_images_flagged": 0,
+      "fraction_images_flagged": 0.0,
+      "n_qa": 6719,
+      "n_qa_flagged": 0,
+      "nn_distance_min": 0.02641117572784424,
+      "nn_distance_q01": 0.03463757038116455,
+      "nn_distance_q05": 0.04329115152359009,
+      "nn_distance_q50": 0.09962302446365356,
+      "nn_distance_max": 0.3194724917411804
+    }
+  ]
+}

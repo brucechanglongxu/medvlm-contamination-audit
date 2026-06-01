@@ -1,0 +1,245 @@
+{
+  "benchmark": "pathvqa",
+  "target": "llava-hf__llava-onevision-qwen2-7b-ov-hf",
+  "cohort": [
+    "OpenGVLab__InternVL3-8B",
+    "Qwen__Qwen2.5-VL-7B-Instruct",
+    "StanfordAIMI__CheXagent-8b"
+  ],
+  "n_examples": 6719,
+  "delta_stats": {
+    "mean": 13.192852712615172,
+    "median": 10.726511193742155,
+    "q95": 33.09562302474305,
+    "q99": 48.38730330746713,
+    "max": 132.85933633610162,
+    "frac_positive": 0.9831820211340974
+  },
+  "top_anomalous": [
+    {
+      "example_id": "pathvqa::test::005927",
+      "mink_llava": -6.442374366679282,
+      "mink_others_median": -139.3017107027809,
+      "delta": 132.85933633610162,
+      "row_index": 5927,
+      "prompt": "what does this image show?",
+      "answer": "cellulitis"
+    },
+    {
+      "example_id": "pathvqa::test::000279",
+      "mink_llava": -4.598565706778776,
+      "mink_others_median": -135.38572734046528,
+      "delta": 130.7871616336865,
+      "row_index": 279,
+      "prompt": "what does this image show?",
+      "answer": "hand"
+    },
+    {
+      "example_id": "pathvqa::test::001960",
+      "mink_llava": -8.073880281371405,
+      "mink_others_median": -112.86087012742308,
+      "delta": 104.78698984605168,
+      "row_index": 1960,
+      "prompt": "what does this image show?",
+      "answer": "nice photo of syndactyly"
+    },
+    {
+      "example_id": "pathvqa::test::001915",
+      "mink_llava": -5.598208969840684,
+      "mink_others_median": -84.95784719913529,
+      "delta": 79.3596382292946,
+      "row_index": 1915,
+      "prompt": "what does this image show?",
+      "answer": "this"
+    },
+    {
+      "example_id": "pathvqa::test::002055",
+      "mink_llava": 0.24990221244984248,
+      "mink_others_median": -77.41436572211173,
+      "delta": 77.66426793456156,
+      "row_index": 2055,
+      "prompt": "is hand present?",
+      "answer": "yes"
+    },
+    {
+      "example_id": "pathvqa::test::000412",
+      "mink_llava": 0.2753534638475309,
+      "mink_others_median": -72.56556576627986,
+      "delta": 72.8409192301274,
+      "row_index": 412,
+      "prompt": "does this image show two nipples?",
+      "answer": "yes"
+    },
+    {
+      "example_id": "pathvqa::test::002008",
+      "mink_llava": -9.74963390349564,
+      "mink_others_median": -82.54536838171691,
+      "delta": 72.79573447822128,
+      "row_index": 2008,
+      "prompt": "what does this image show?",
+      "answer": "obvious lesion"
+    },
+    {
+      "example_id": "pathvqa::test::000411",
+      "mink_llava": -6.861666490577835,
+      "mink_others_median": -76.34007251125658,
+      "delta": 69.47840602067875,
+      "row_index": 411,
+      "prompt": "what does this image show?",
+      "answer": "two nipples"
+    },
+    {
+      "example_id": "pathvqa::test::005915",
+      "mink_llava": -5.5694210922949745,
+      "mink_others_median": -74.0139738348621,
+      "delta": 68.44455274256713,
+      "row_index": 5915,
+      "prompt": "what does this image show?",
+      "answer": "thermal burn"
+    },
+    {
+      "example_id": "pathvqa::test::002729",
+      "mink_llava": -9.519786503519674,
+      "mink_others_median": -75.95950611144741,
+      "delta": 66.43971960792774,
+      "row_index": 2729,
+      "prompt": "what does this image show?",
+      "answer": "stomach"
+    },
+    {
+      "example_id": "pathvqa::test::001374",
+      "mink_llava": -16.366400907818623,
+      "mink_others_median": -79.89627015464143,
+      "delta": 63.529869246822805,
+      "row_index": 1374,
+      "prompt": "what does this image show?",
+      "answer": "parathyroid"
+    },
+    {
+      "example_id": "pathvqa::test::005629",
+      "mink_llava": -4.582383643976633,
+      "mink_others_median": -67.67446969438144,
+      "delta": 63.09208605040481,
+      "row_index": 5629,
+      "prompt": "what is present?",
+      "answer": "respiratory"
+    },
+    {
+      "example_id": "pathvqa::test::005708",
+      "mink_llava": -6.27908095899029,
+      "mink_others_median": -67.50100261176753,
+      "delta": 61.22192165277724,
+      "row_index": 5708,
+      "prompt": "what is present?",
+      "answer": "respiratory"
+    },
+    {
+      "example_id": "pathvqa::test::005716",
+      "mink_llava": -3.776365058702284,
+      "mink_others_median": -62.41725593199195,
+      "delta": 58.64089087328967,
+      "row_index": 5716,
+      "prompt": "what is present?",
+      "answer": "respiratory"
+    },
+    {
+      "example_id": "pathvqa::test::005693",
+      "mink_llava": -5.2374091587066145,
+      "mink_others_median": -63.35977736113717,
+      "delta": 58.12236820243056,
+      "row_index": 5693,
+      "prompt": "what is present?",
+      "answer": "respiratory"
+    },
+    {
+      "example_id": "pathvqa::test::003374",
+      "mink_llava": -6.118652482949313,
+      "mink_others_median": -63.9706585014026,
+      "delta": 57.85200601845329,
+      "row_index": 3374,
+      "prompt": "what is present?",
+      "answer": "traumatic rupture"
+    },
+    {
+      "example_id": "pathvqa::test::003381",
+      "mink_llava": -6.118652482949313,
+      "mink_others_median": -63.9706585014026,
+      "delta": 57.85200601845329,
+      "row_index": 3381,
+      "prompt": "what is present?",
+      "answer": "traumatic rupture"
+    },
+    {
+      "example_id": "pathvqa::test::002407",
+      "mink_llava": -3.9667726392953777,
+      "mink_others_median": -61.104805104147545,
+      "delta": 57.13803246485217,
+      "row_index": 2407,
+      "prompt": "what is present?",
+      "answer": "ovary"
+    },
+    {
+      "example_id": "pathvqa::test::002416",
+      "mink_llava": -3.9667726392953777,
+      "mink_others_median": -61.104805104147545,
+      "delta": 57.13803246485217,
+      "row_index": 2416,
+      "prompt": "what is present?",
+      "answer": "ovary"
+    },
+    {
+      "example_id": "pathvqa::test::003399",
+      "mink_llava": -6.468813241285,
+      "mink_others_median": -62.65702952364157,
+      "delta": 56.18821628235657,
+      "row_index": 3399,
+      "prompt": "what is present?",
+      "answer": "hematologic"
+    },
+    {
+      "example_id": "pathvqa::test::003410",
+      "mink_llava": -6.468813241285,
+      "mink_others_median": -62.65702952364157,
+      "delta": 56.18821628235657,
+      "row_index": 3410,
+      "prompt": "what is present?",
+      "answer": "hematologic"
+    },
+    {
+      "example_id": "pathvqa::test::004590",
+      "mink_llava": -4.563686075693558,
+      "mink_others_median": -60.40953769478385,
+      "delta": 55.84585161909029,
+      "row_index": 4590,
+      "prompt": "what is present?",
+      "answer": "joints"
+    },
+    {
+      "example_id": "pathvqa::test::005922",
+      "mink_llava": -6.227077561587282,
+      "mink_others_median": -62.052953957256584,
+      "delta": 55.825876395669304,
+      "row_index": 5922,
+      "prompt": "what does this image show?",
+      "answer": "thermal burn"
+    },
+    {
+      "example_id": "pathvqa::test::002405",
+      "mink_llava": -4.741492899358607,
+      "mink_others_median": -60.17536774745539,
+      "delta": 55.433874848096785,
+      "row_index": 2405,
+      "prompt": "what is present?",
+      "answer": "female reproductive"
+    },
+    {
+      "example_id": "pathvqa::test::002415",
+      "mink_llava": -4.741492899358607,
+      "mink_others_median": -60.17536774745539,
+      "delta": 55.433874848096785,
+      "row_index": 2415,
+      "prompt": "what is present?",
+      "answer": "female reproductive"
+    }
+  ]
+}

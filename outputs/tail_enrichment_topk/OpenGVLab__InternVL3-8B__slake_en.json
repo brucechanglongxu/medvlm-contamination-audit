@@ -1,0 +1,102 @@
+[
+  {
+    "example_id": "slake_en::test::12450",
+    "delta": 4.019537087024824
+  },
+  {
+    "example_id": "slake_en::test::12494",
+    "delta": 3.7247852734145406
+  },
+  {
+    "example_id": "slake_en::test::12344",
+    "delta": 3.7123600720009837
+  },
+  {
+    "example_id": "slake_en::test::11936",
+    "delta": 3.6904963681427265
+  },
+  {
+    "example_id": "slake_en::test::12270",
+    "delta": 3.5848683875010017
+  },
+  {
+    "example_id": "slake_en::test::12301",
+    "delta": 2.7378478601634963
+  },
+  {
+    "example_id": "slake_en::test::12982",
+    "delta": 2.491432533152296
+  },
+  {
+    "example_id": "slake_en::test::12331",
+    "delta": 2.396773467017813
+  },
+  {
+    "example_id": "slake_en::test::12286",
+    "delta": 1.932077235361664
+  },
+  {
+    "example_id": "slake_en::test::12760",
+    "delta": 1.912796966173243
+  },
+  {
+    "example_id": "slake_en::test::12637",
+    "delta": 1.8908794228249999
+  },
+  {
+    "example_id": "slake_en::test::12532",
+    "delta": 1.6335820965627486
+  },
+  {
+    "example_id": "slake_en::test::11947",
+    "delta": 1.4343542597276908
+  },
+  {
+    "example_id": "slake_en::test::12830",
+    "delta": 1.30360648958756
+  },
+  {
+    "example_id": "slake_en::test::12742",
+    "delta": 1.1810496496148524
+  },
+  {
+    "example_id": "slake_en::test::11957",
+    "delta": 0.9638221419574116
+  },
+  {
+    "example_id": "slake_en::test::12819",
+    "delta": 0.9189869759500144
+  },
+  {
+    "example_id": "slake_en::test::12654",
+    "delta": 0.6416431475316582
+  },
+  {
+    "example_id": "slake_en::test::12743",
+    "delta": 0.6321745589512648
+  },
+  {
+    "example_id": "slake_en::test::12481",
+    "delta": 0.5343305862863934
+  },
+  {
+    "example_id": "slake_en::test::12940",
+    "delta": 0.46012099316154664
+  },
+  {
+    "example_id": "slake_en::test::12640",
+    "delta": 0.40098901846801027
+  },
+  {
+    "example_id": "slake_en::test::12630",
+    "delta": 0.3222220323444791
+  },
+  {
+    "example_id": "slake_en::test::12621",
+    "delta": 0.19149549087540496
+  },
+  {
+    "example_id": "slake_en::test::12362",
+    "delta": 0.16515032458502787
+  }
+]

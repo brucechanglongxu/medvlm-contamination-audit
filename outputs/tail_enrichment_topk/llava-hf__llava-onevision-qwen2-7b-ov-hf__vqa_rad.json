@@ -1,0 +1,102 @@
+[
+  {
+    "example_id": "vqa_rad::test::000160",
+    "delta": 36.909529198009324
+  },
+  {
+    "example_id": "vqa_rad::test::000025",
+    "delta": 24.3839415462691
+  },
+  {
+    "example_id": "vqa_rad::test::000116",
+    "delta": 23.684540670796842
+  },
+  {
+    "example_id": "vqa_rad::test::000378",
+    "delta": 21.29358779315669
+  },
+  {
+    "example_id": "vqa_rad::test::000121",
+    "delta": 20.52933946290927
+  },
+  {
+    "example_id": "vqa_rad::test::000332",
+    "delta": 20.08554547933049
+  },
+  {
+    "example_id": "vqa_rad::test::000112",
+    "delta": 19.373664535150837
+  },
+  {
+    "example_id": "vqa_rad::test::000109",
+    "delta": 18.937757919002713
+  },
+  {
+    "example_id": "vqa_rad::test::000095",
+    "delta": 18.072241993176704
+  },
+  {
+    "example_id": "vqa_rad::test::000339",
+    "delta": 18.06729294563045
+  },
+  {
+    "example_id": "vqa_rad::test::000131",
+    "delta": 17.90602776739527
+  },
+  {
+    "example_id": "vqa_rad::test::000225",
+    "delta": 17.56104173350001
+  },
+  {
+    "example_id": "vqa_rad::test::000208",
+    "delta": 16.967771522790265
+  },
+  {
+    "example_id": "vqa_rad::test::000085",
+    "delta": 16.55834886327846
+  },
+  {
+    "example_id": "vqa_rad::test::000358",
+    "delta": 15.87968861954178
+  },
+  {
+    "example_id": "vqa_rad::test::000209",
+    "delta": 15.37197001088467
+  },
+  {
+    "example_id": "vqa_rad::test::000376",
+    "delta": 15.277650414673282
+  },
+  {
+    "example_id": "vqa_rad::test::000096",
+    "delta": 15.25223965718433
+  },
+  {
+    "example_id": "vqa_rad::test::000106",
+    "delta": 13.763010417180713
+  },
+  {
+    "example_id": "vqa_rad::test::000156",
+    "delta": 13.7491763076516
+  },
+  {
+    "example_id": "vqa_rad::test::000003",
+    "delta": 13.54714609789304
+  },
+  {
+    "example_id": "vqa_rad::test::000327",
+    "delta": 13.54147917591584
+  },
+  {
+    "example_id": "vqa_rad::test::000154",
+    "delta": 13.506604484156126
+  },
+  {
+    "example_id": "vqa_rad::test::000142",
+    "delta": 13.24902417518929
+  },
+  {
+    "example_id": "vqa_rad::test::000359",
+    "delta": 13.235744415783829
+  }
+]

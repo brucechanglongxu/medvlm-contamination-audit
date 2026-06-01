@@ -1,0 +1,230 @@
+{
+  "pathvqa": {
+    "n_examples": 6719,
+    "keys": {}
+  },
+  "slake_en": {
+    "n_examples": 1061,
+    "keys": {
+      "answer_type": {
+        "OPEN": {
+          "n": 645,
+          "P_delta_gt_100": {
+            "OpenGVLab__InternVL3-8B": 0.0,
+            "Qwen__Qwen2.5-VL-7B-Instruct": 0.0,
+            "StanfordAIMI__CheXagent-8b": 0.0,
+            "llava-hf__llava-onevision-qwen2-7b-ov-hf": 0.0
+          }
+        },
+        "CLOSED": {
+          "n": 416,
+          "P_delta_gt_100": {
+            "OpenGVLab__InternVL3-8B": 0.0,
+            "Qwen__Qwen2.5-VL-7B-Instruct": 0.0,
+            "StanfordAIMI__CheXagent-8b": 0.6153846153846154,
+            "llava-hf__llava-onevision-qwen2-7b-ov-hf": 0.6177884615384616
+          }
+        }
+      },
+      "content_type": {
+        "Organ": {
+          "n": 253,
+          "P_delta_gt_100": {
+            "OpenGVLab__InternVL3-8B": 0.0,
+            "Qwen__Qwen2.5-VL-7B-Instruct": 0.0,
+            "StanfordAIMI__CheXagent-8b": 0.5533596837944664,
+            "llava-hf__llava-onevision-qwen2-7b-ov-hf": 0.5573122529644269
+          }
+        },
+        "Position": {
+          "n": 186,
+          "P_delta_gt_100": {
+            "OpenGVLab__InternVL3-8B": 0.0,
+            "Qwen__Qwen2.5-VL-7B-Instruct": 0.0,
+            "StanfordAIMI__CheXagent-8b": 0.06451612903225806,
+            "llava-hf__llava-onevision-qwen2-7b-ov-hf": 0.06451612903225806
+          }
+        },
+        "Abnormality": {
+          "n": 150,
+          "P_delta_gt_100": {
+            "OpenGVLab__InternVL3-8B": 0.0,
+            "Qwen__Qwen2.5-VL-7B-Instruct": 0.0,
+            "StanfordAIMI__CheXagent-8b": 0.23333333333333334,
+            "llava-hf__llava-onevision-qwen2-7b-ov-hf": 0.23333333333333334
+          }
+        },
+        "KG": {
+          "n": 148,
+          "P_delta_gt_100": {
+            "OpenGVLab__InternVL3-8B": 0.0,
+            "Qwen__Qwen2.5-VL-7B-Instruct": 0.0,
+            "StanfordAIMI__CheXagent-8b": 0.14189189189189189,
+            "llava-hf__llava-onevision-qwen2-7b-ov-hf": 0.14189189189189189
+          }
+        },
+        "Modality": {
+          "n": 108,
+          "P_delta_gt_100": {
+            "OpenGVLab__InternVL3-8B": 0.0,
+            "Qwen__Qwen2.5-VL-7B-Instruct": 0.0,
+            "StanfordAIMI__CheXagent-8b": 0.21296296296296297,
+            "llava-hf__llava-onevision-qwen2-7b-ov-hf": 0.21296296296296297
+          }
+        },
+        "Size": {
+          "n": 65,
+          "P_delta_gt_100": {
+            "OpenGVLab__InternVL3-8B": 0.0,
+            "Qwen__Qwen2.5-VL-7B-Instruct": 0.0,
+            "StanfordAIMI__CheXagent-8b": 0.0,
+            "llava-hf__llava-onevision-qwen2-7b-ov-hf": 0.0
+          }
+        },
+        "Plane": {
+          "n": 58,
+          "P_delta_gt_100": {
+            "OpenGVLab__InternVL3-8B": 0.0,
+            "Qwen__Qwen2.5-VL-7B-Instruct": 0.0,
+            "StanfordAIMI__CheXagent-8b": 0.43103448275862066,
+            "llava-hf__llava-onevision-qwen2-7b-ov-hf": 0.43103448275862066
+          }
+        },
+        "Quantity": {
+          "n": 52,
+          "P_delta_gt_100": {
+            "OpenGVLab__InternVL3-8B": 0.0,
+            "Qwen__Qwen2.5-VL-7B-Instruct": 0.0,
+            "StanfordAIMI__CheXagent-8b": 0.0,
+            "llava-hf__llava-onevision-qwen2-7b-ov-hf": 0.0
+          }
+        },
+        "Color": {
+          "n": 34,
+          "P_delta_gt_100": {
+            "OpenGVLab__InternVL3-8B": 0.0,
+            "Qwen__Qwen2.5-VL-7B-Instruct": 0.0,
+            "StanfordAIMI__CheXagent-8b": 0.0,
+            "llava-hf__llava-onevision-qwen2-7b-ov-hf": 0.0
+          }
+        },
+        "Shape": {
+          "n": 7,
+          "P_delta_gt_100": {
+            "OpenGVLab__InternVL3-8B": 0.0,
+            "Qwen__Qwen2.5-VL-7B-Instruct": 0.0,
+            "StanfordAIMI__CheXagent-8b": 0.0,
+            "llava-hf__llava-onevision-qwen2-7b-ov-hf": 0.0
+          }
+        }
+      },
+      "location": {
+        "Lung": {
+          "n": 419,
+          "P_delta_gt_100": {
+            "OpenGVLab__InternVL3-8B": 0.0,
+            "Qwen__Qwen2.5-VL-7B-Instruct": 0.0,
+            "StanfordAIMI__CheXagent-8b": 0.1909307875894988,
+            "llava-hf__llava-onevision-qwen2-7b-ov-hf": 0.1909307875894988
+          }
+        },
+        "Abdomen": {
+          "n": 313,
+          "P_delta_gt_100": {
+            "OpenGVLab__InternVL3-8B": 0.0,
+            "Qwen__Qwen2.5-VL-7B-Instruct": 0.0,
+            "StanfordAIMI__CheXagent-8b": 0.3003194888178914,
+            "llava-hf__llava-onevision-qwen2-7b-ov-hf": 0.3035143769968051
+          }
+        },
+        "Brain_Tissue": {
+          "n": 166,
+          "P_delta_gt_100": {
+            "OpenGVLab__InternVL3-8B": 0.0,
+            "Qwen__Qwen2.5-VL-7B-Instruct": 0.0,
+            "StanfordAIMI__CheXagent-8b": 0.2469879518072289,
+            "llava-hf__llava-onevision-qwen2-7b-ov-hf": 0.2469879518072289
+          }
+        },
+        "Pelvic Cavity": {
+          "n": 47,
+          "P_delta_gt_100": {
+            "OpenGVLab__InternVL3-8B": 0.0,
+            "Qwen__Qwen2.5-VL-7B-Instruct": 0.0,
+            "StanfordAIMI__CheXagent-8b": 0.2765957446808511,
+            "llava-hf__llava-onevision-qwen2-7b-ov-hf": 0.2765957446808511
+          }
+        },
+        "Brain": {
+          "n": 42,
+          "P_delta_gt_100": {
+            "OpenGVLab__InternVL3-8B": 0.0,
+            "Qwen__Qwen2.5-VL-7B-Instruct": 0.0,
+            "StanfordAIMI__CheXagent-8b": 0.11904761904761904,
+            "llava-hf__llava-onevision-qwen2-7b-ov-hf": 0.11904761904761904
+          }
+        },
+        "Neck": {
+          "n": 35,
+          "P_delta_gt_100": {
+            "OpenGVLab__InternVL3-8B": 0.0,
+            "Qwen__Qwen2.5-VL-7B-Instruct": 0.0,
+            "StanfordAIMI__CheXagent-8b": 0.34285714285714286,
+            "llava-hf__llava-onevision-qwen2-7b-ov-hf": 0.34285714285714286
+          }
+        },
+        "Brain_Face": {
+          "n": 29,
+          "P_delta_gt_100": {
+            "OpenGVLab__InternVL3-8B": 0.0,
+            "Qwen__Qwen2.5-VL-7B-Instruct": 0.0,
+            "StanfordAIMI__CheXagent-8b": 0.27586206896551724,
+            "llava-hf__llava-onevision-qwen2-7b-ov-hf": 0.27586206896551724
+          }
+        },
+        "Chest_mediastinal": {
+          "n": 10,
+          "P_delta_gt_100": {
+            "OpenGVLab__InternVL3-8B": 0.0,
+            "Qwen__Qwen2.5-VL-7B-Instruct": 0.0,
+            "StanfordAIMI__CheXagent-8b": 0.3,
+            "llava-hf__llava-onevision-qwen2-7b-ov-hf": 0.3
+          }
+        }
+      },
+      "modality": {
+        "CT": {
+          "n": 472,
+          "P_delta_gt_100": {
+            "OpenGVLab__InternVL3-8B": 0.0,
+            "Qwen__Qwen2.5-VL-7B-Instruct": 0.0,
+            "StanfordAIMI__CheXagent-8b": 0.2923728813559322,
+            "llava-hf__llava-onevision-qwen2-7b-ov-hf": 0.2944915254237288
+          }
+        },
+        "X-Ray": {
+          "n": 361,
+          "P_delta_gt_100": {
+            "OpenGVLab__InternVL3-8B": 0.0,
+            "Qwen__Qwen2.5-VL-7B-Instruct": 0.0,
+            "StanfordAIMI__CheXagent-8b": 0.18005540166204986,
+            "llava-hf__llava-onevision-qwen2-7b-ov-hf": 0.18005540166204986
+          }
+        },
+        "MRI": {
+          "n": 228,
+          "P_delta_gt_100": {
+            "OpenGVLab__InternVL3-8B": 0.0,
+            "Qwen__Qwen2.5-VL-7B-Instruct": 0.0,
+            "StanfordAIMI__CheXagent-8b": 0.2324561403508772,
+            "llava-hf__llava-onevision-qwen2-7b-ov-hf": 0.2324561403508772
+          }
+        }
+      }
+    }
+  },
+  "vqa_rad": {
+    "n_examples": 451,
+    "keys": {}
+  }
+}

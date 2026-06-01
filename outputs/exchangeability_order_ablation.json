@@ -1,0 +1,337 @@
+{
+  "n_permutations": 10000,
+  "p_value_floor": 9.999000099990002e-05,
+  "orderings": [
+    "release",
+    "by_image_hash",
+    "by_answer_len",
+    "by_question_len",
+    "by_mink_pp"
+  ],
+  "cells": [
+    {
+      "benchmark": "omnimedvqa",
+      "model": "OpenGVLab/InternVL3-8B",
+      "n_examples": 4999,
+      "pvals": {
+        "release": 9.999000099990002e-05,
+        "by_image_hash": 0.5696430356964304,
+        "by_answer_len": 9.999000099990002e-05,
+        "by_question_len": 9.999000099990002e-05,
+        "by_mink_pp": 9.999000099990002e-05
+      }
+    },
+    {
+      "benchmark": "omnimedvqa",
+      "model": "Qwen/Qwen2.5-VL-7B-Instruct",
+      "n_examples": 4999,
+      "pvals": {
+        "release": 9.999000099990002e-05,
+        "by_image_hash": 0.37946205379462056,
+        "by_answer_len": 9.999000099990002e-05,
+        "by_question_len": 9.999000099990002e-05,
+        "by_mink_pp": 1.0
+      }
+    },
+    {
+      "benchmark": "omnimedvqa",
+      "model": "Salesforce/blip2-opt-2.7b",
+      "n_examples": 4999,
+      "pvals": {
+        "release": 1.0,
+        "by_image_hash": 0.3086691330866913,
+        "by_answer_len": 1.0,
+        "by_question_len": 1.0,
+        "by_mink_pp": 1.0
+      }
+    },
+    {
+      "benchmark": "omnimedvqa",
+      "model": "StanfordAIMI/CheXagent-8b",
+      "n_examples": 4999,
+      "pvals": {
+        "release": 9.999000099990002e-05,
+        "by_image_hash": 0.9387061293870613,
+        "by_answer_len": 9.999000099990002e-05,
+        "by_question_len": 9.999000099990002e-05,
+        "by_mink_pp": 1.0
+      }
+    },
+    {
+      "benchmark": "omnimedvqa",
+      "model": "google/medgemma-4b-it",
+      "n_examples": 4999,
+      "pvals": {
+        "release": 0.0033996600339966003,
+        "by_image_hash": 0.32796720327967205,
+        "by_answer_len": 0.0033996600339966003,
+        "by_question_len": 0.0030996900309969004,
+        "by_mink_pp": 1.0
+      }
+    },
+    {
+      "benchmark": "omnimedvqa",
+      "model": "llava-hf/llava-onevision-qwen2-7b-ov-hf",
+      "n_examples": 4999,
+      "pvals": {
+        "release": 0.00039996000399960006,
+        "by_image_hash": 0.45045495450454953,
+        "by_answer_len": 0.00029997000299970003,
+        "by_question_len": 0.00039996000399960006,
+        "by_mink_pp": 1.0
+      }
+    },
+    {
+      "benchmark": "pathvqa",
+      "model": "OpenGVLab/InternVL3-8B",
+      "n_examples": 6719,
+      "pvals": {
+        "release": 0.6892310768923108,
+        "by_image_hash": 0.5973402659734026,
+        "by_answer_len": 9.999000099990002e-05,
+        "by_question_len": 0.6856314368563143,
+        "by_mink_pp": 1.0
+      }
+    },
+    {
+      "benchmark": "pathvqa",
+      "model": "Qwen/Qwen2.5-VL-7B-Instruct",
+      "n_examples": 6719,
+      "pvals": {
+        "release": 0.9932006799320068,
+        "by_image_hash": 0.46295370462953706,
+        "by_answer_len": 9.999000099990002e-05,
+        "by_question_len": 0.9923007699230078,
+        "by_mink_pp": 1.0
+      }
+    },
+    {
+      "benchmark": "pathvqa",
+      "model": "Salesforce/blip2-opt-2.7b",
+      "n_examples": 6719,
+      "pvals": {
+        "release": 0.0012998700129987,
+        "by_image_hash": 0.275972402759724,
+        "by_answer_len": 9.999000099990002e-05,
+        "by_question_len": 0.0012998700129987,
+        "by_mink_pp": 1.0
+      }
+    },
+    {
+      "benchmark": "pathvqa",
+      "model": "Salesforce/instructblip-vicuna-7b",
+      "n_examples": 6719,
+      "pvals": {
+        "release": 1.0,
+        "by_image_hash": 0.1725827417258274,
+        "by_answer_len": 9.999000099990002e-05,
+        "by_question_len": 1.0,
+        "by_mink_pp": 1.0
+      }
+    },
+    {
+      "benchmark": "pathvqa",
+      "model": "StanfordAIMI/CheXagent-8b",
+      "n_examples": 6719,
+      "pvals": {
+        "release": 1.0,
+        "by_image_hash": 0.18538146185381463,
+        "by_answer_len": 9.999000099990002e-05,
+        "by_question_len": 1.0,
+        "by_mink_pp": 1.0
+      }
+    },
+    {
+      "benchmark": "pathvqa",
+      "model": "google/medgemma-4b-it",
+      "n_examples": 6719,
+      "pvals": {
+        "release": 0.059694030596940305,
+        "by_image_hash": 0.4246575342465753,
+        "by_answer_len": 9.999000099990002e-05,
+        "by_question_len": 0.0634936506349365,
+        "by_mink_pp": 1.0
+      }
+    },
+    {
+      "benchmark": "pathvqa",
+      "model": "llava-hf/llava-onevision-qwen2-7b-ov-hf",
+      "n_examples": 6719,
+      "pvals": {
+        "release": 0.0030996900309969004,
+        "by_image_hash": 0.43795620437956206,
+        "by_answer_len": 9.999000099990002e-05,
+        "by_question_len": 0.0026997300269973002,
+        "by_mink_pp": 1.0
+      }
+    },
+    {
+      "benchmark": "slake_en",
+      "model": "OpenGVLab/InternVL3-8B",
+      "n_examples": 1061,
+      "pvals": {
+        "release": 0.6648335166483351,
+        "by_image_hash": 0.5509449055094491,
+        "by_answer_len": 9.999000099990002e-05,
+        "by_question_len": 0.6613338666133387,
+        "by_mink_pp": 1.0
+      }
+    },
+    {
+      "benchmark": "slake_en",
+      "model": "Qwen/Qwen2.5-VL-7B-Instruct",
+      "n_examples": 1061,
+      "pvals": {
+        "release": 0.000999900009999,
+        "by_image_hash": 0.6808319168083191,
+        "by_answer_len": 9.999000099990002e-05,
+        "by_question_len": 0.00029997000299970003,
+        "by_mink_pp": 1.0
+      }
+    },
+    {
+      "benchmark": "slake_en",
+      "model": "Salesforce/blip2-opt-2.7b",
+      "n_examples": 1061,
+      "pvals": {
+        "release": 0.30646935306469353,
+        "by_image_hash": 0.7210278972102789,
+        "by_answer_len": 9.999000099990002e-05,
+        "by_question_len": 0.3037696230376962,
+        "by_mink_pp": 1.0
+      }
+    },
+    {
+      "benchmark": "slake_en",
+      "model": "Salesforce/instructblip-vicuna-7b",
+      "n_examples": 1061,
+      "pvals": {
+        "release": 0.9752024797520248,
+        "by_image_hash": 0.7534246575342466,
+        "by_answer_len": 9.999000099990002e-05,
+        "by_question_len": 0.9728027197280272,
+        "by_mink_pp": 1.0
+      }
+    },
+    {
+      "benchmark": "slake_en",
+      "model": "StanfordAIMI/CheXagent-8b",
+      "n_examples": 1061,
+      "pvals": {
+        "release": 0.8653134686531346,
+        "by_image_hash": 0.6915308469153084,
+        "by_answer_len": 9.999000099990002e-05,
+        "by_question_len": 0.8664133586641336,
+        "by_mink_pp": 1.0
+      }
+    },
+    {
+      "benchmark": "slake_en",
+      "model": "google/medgemma-4b-it",
+      "n_examples": 1061,
+      "pvals": {
+        "release": 0.021097890210978902,
+        "by_image_hash": 0.6894310568943106,
+        "by_answer_len": 9.999000099990002e-05,
+        "by_question_len": 0.022297770222977704,
+        "by_mink_pp": 1.0
+      }
+    },
+    {
+      "benchmark": "slake_en",
+      "model": "llava-hf/llava-onevision-qwen2-7b-ov-hf",
+      "n_examples": 1061,
+      "pvals": {
+        "release": 0.45265473452654736,
+        "by_image_hash": 0.7423257674232576,
+        "by_answer_len": 9.999000099990002e-05,
+        "by_question_len": 0.4460553944605539,
+        "by_mink_pp": 1.0
+      }
+    },
+    {
+      "benchmark": "vqa_rad",
+      "model": "OpenGVLab/InternVL3-8B",
+      "n_examples": 451,
+      "pvals": {
+        "release": 0.1367863213678632,
+        "by_image_hash": 0.2810718928107189,
+        "by_answer_len": 9.999000099990002e-05,
+        "by_question_len": 0.13708629137086292,
+        "by_mink_pp": 1.0
+      }
+    },
+    {
+      "benchmark": "vqa_rad",
+      "model": "Qwen/Qwen2.5-VL-7B-Instruct",
+      "n_examples": 451,
+      "pvals": {
+        "release": 0.5886411358864113,
+        "by_image_hash": 0.40075992400759924,
+        "by_answer_len": 9.999000099990002e-05,
+        "by_question_len": 0.5946405359464053,
+        "by_mink_pp": 1.0
+      }
+    },
+    {
+      "benchmark": "vqa_rad",
+      "model": "Salesforce/blip2-opt-2.7b",
+      "n_examples": 451,
+      "pvals": {
+        "release": 0.22227777222277773,
+        "by_image_hash": 0.69003099690031,
+        "by_answer_len": 9.999000099990002e-05,
+        "by_question_len": 0.2221777822217778,
+        "by_mink_pp": 1.0
+      }
+    },
+    {
+      "benchmark": "vqa_rad",
+      "model": "Salesforce/instructblip-vicuna-7b",
+      "n_examples": 451,
+      "pvals": {
+        "release": 0.9075092490750925,
+        "by_image_hash": 0.9881011898810119,
+        "by_answer_len": 9.999000099990002e-05,
+        "by_question_len": 0.9092090790920908,
+        "by_mink_pp": 1.0
+      }
+    },
+    {
+      "benchmark": "vqa_rad",
+      "model": "StanfordAIMI/CheXagent-8b",
+      "n_examples": 451,
+      "pvals": {
+        "release": 0.9535046495350465,
+        "by_image_hash": 0.968003199680032,
+        "by_answer_len": 9.999000099990002e-05,
+        "by_question_len": 0.9536046395360464,
+        "by_mink_pp": 1.0
+      }
+    },
+    {
+      "benchmark": "vqa_rad",
+      "model": "google/medgemma-4b-it",
+      "n_examples": 451,
+      "pvals": {
+        "release": 0.1044895510448955,
+        "by_image_hash": 0.5338466153384661,
+        "by_answer_len": 9.999000099990002e-05,
+        "by_question_len": 0.10598940105989402,
+        "by_mink_pp": 1.0
+      }
+    },
+    {
+      "benchmark": "vqa_rad",
+      "model": "llava-hf/llava-onevision-qwen2-7b-ov-hf",
+      "n_examples": 451,
+      "pvals": {
+        "release": 0.127987201279872,
+        "by_image_hash": 0.7495250474952505,
+        "by_answer_len": 9.999000099990002e-05,
+        "by_question_len": 0.1257874212578742,
+        "by_mink_pp": 1.0
+      }
+    }
+  ]
+}

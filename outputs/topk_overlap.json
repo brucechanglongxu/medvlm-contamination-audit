@@ -1,0 +1,354 @@
+{
+  "omnimedvqa": {
+    "benchmark": "omnimedvqa",
+    "n_examples": 0,
+    "K": 25,
+    "expected_intersection_size": 0.0,
+    "pairs": [
+      {
+        "a": "OpenGVLab__InternVL3-8B",
+        "b": "Qwen__Qwen2.5-VL-7B-Instruct",
+        "intersection": 2,
+        "union": 48,
+        "jaccard": 0.041666666666666664,
+        "lift_vs_chance": 0.0
+      },
+      {
+        "a": "OpenGVLab__InternVL3-8B",
+        "b": "Salesforce__blip2-opt-2.7b",
+        "intersection": 0,
+        "union": 50,
+        "jaccard": 0.0,
+        "lift_vs_chance": 0.0
+      },
+      {
+        "a": "OpenGVLab__InternVL3-8B",
+        "b": "StanfordAIMI__CheXagent-8b",
+        "intersection": 0,
+        "union": 50,
+        "jaccard": 0.0,
+        "lift_vs_chance": 0.0
+      },
+      {
+        "a": "OpenGVLab__InternVL3-8B",
+        "b": "llava-hf__llava-onevision-qwen2-7b-ov-hf",
+        "intersection": 0,
+        "union": 50,
+        "jaccard": 0.0,
+        "lift_vs_chance": 0.0
+      },
+      {
+        "a": "Qwen__Qwen2.5-VL-7B-Instruct",
+        "b": "Salesforce__blip2-opt-2.7b",
+        "intersection": 0,
+        "union": 50,
+        "jaccard": 0.0,
+        "lift_vs_chance": 0.0
+      },
+      {
+        "a": "Qwen__Qwen2.5-VL-7B-Instruct",
+        "b": "StanfordAIMI__CheXagent-8b",
+        "intersection": 0,
+        "union": 50,
+        "jaccard": 0.0,
+        "lift_vs_chance": 0.0
+      },
+      {
+        "a": "Qwen__Qwen2.5-VL-7B-Instruct",
+        "b": "llava-hf__llava-onevision-qwen2-7b-ov-hf",
+        "intersection": 0,
+        "union": 50,
+        "jaccard": 0.0,
+        "lift_vs_chance": 0.0
+      },
+      {
+        "a": "Salesforce__blip2-opt-2.7b",
+        "b": "StanfordAIMI__CheXagent-8b",
+        "intersection": 15,
+        "union": 35,
+        "jaccard": 0.42857142857142855,
+        "lift_vs_chance": 0.0
+      },
+      {
+        "a": "Salesforce__blip2-opt-2.7b",
+        "b": "llava-hf__llava-onevision-qwen2-7b-ov-hf",
+        "intersection": 1,
+        "union": 49,
+        "jaccard": 0.02040816326530612,
+        "lift_vs_chance": 0.0
+      },
+      {
+        "a": "StanfordAIMI__CheXagent-8b",
+        "b": "llava-hf__llava-onevision-qwen2-7b-ov-hf",
+        "intersection": 0,
+        "union": 50,
+        "jaccard": 0.0,
+        "lift_vs_chance": 0.0
+      }
+    ]
+  },
+  "pathvqa": {
+    "benchmark": "pathvqa",
+    "n_examples": 0,
+    "K": 25,
+    "expected_intersection_size": 0.0,
+    "pairs": [
+      {
+        "a": "OpenGVLab__InternVL3-8B",
+        "b": "Qwen__Qwen2.5-VL-7B-Instruct",
+        "intersection": 0,
+        "union": 50,
+        "jaccard": 0.0,
+        "lift_vs_chance": 0.0
+      },
+      {
+        "a": "OpenGVLab__InternVL3-8B",
+        "b": "Salesforce__blip2-opt-2.7b",
+        "intersection": 4,
+        "union": 46,
+        "jaccard": 0.08695652173913043,
+        "lift_vs_chance": 0.0
+      },
+      {
+        "a": "OpenGVLab__InternVL3-8B",
+        "b": "StanfordAIMI__CheXagent-8b",
+        "intersection": 4,
+        "union": 46,
+        "jaccard": 0.08695652173913043,
+        "lift_vs_chance": 0.0
+      },
+      {
+        "a": "OpenGVLab__InternVL3-8B",
+        "b": "llava-hf__llava-onevision-qwen2-7b-ov-hf",
+        "intersection": 0,
+        "union": 50,
+        "jaccard": 0.0,
+        "lift_vs_chance": 0.0
+      },
+      {
+        "a": "Qwen__Qwen2.5-VL-7B-Instruct",
+        "b": "Salesforce__blip2-opt-2.7b",
+        "intersection": 0,
+        "union": 50,
+        "jaccard": 0.0,
+        "lift_vs_chance": 0.0
+      },
+      {
+        "a": "Qwen__Qwen2.5-VL-7B-Instruct",
+        "b": "StanfordAIMI__CheXagent-8b",
+        "intersection": 0,
+        "union": 50,
+        "jaccard": 0.0,
+        "lift_vs_chance": 0.0
+      },
+      {
+        "a": "Qwen__Qwen2.5-VL-7B-Instruct",
+        "b": "llava-hf__llava-onevision-qwen2-7b-ov-hf",
+        "intersection": 0,
+        "union": 50,
+        "jaccard": 0.0,
+        "lift_vs_chance": 0.0
+      },
+      {
+        "a": "Salesforce__blip2-opt-2.7b",
+        "b": "StanfordAIMI__CheXagent-8b",
+        "intersection": 17,
+        "union": 33,
+        "jaccard": 0.5151515151515151,
+        "lift_vs_chance": 0.0
+      },
+      {
+        "a": "Salesforce__blip2-opt-2.7b",
+        "b": "llava-hf__llava-onevision-qwen2-7b-ov-hf",
+        "intersection": 14,
+        "union": 36,
+        "jaccard": 0.3888888888888889,
+        "lift_vs_chance": 0.0
+      },
+      {
+        "a": "StanfordAIMI__CheXagent-8b",
+        "b": "llava-hf__llava-onevision-qwen2-7b-ov-hf",
+        "intersection": 11,
+        "union": 39,
+        "jaccard": 0.28205128205128205,
+        "lift_vs_chance": 0.0
+      }
+    ]
+  },
+  "slake_en": {
+    "benchmark": "slake_en",
+    "n_examples": 0,
+    "K": 25,
+    "expected_intersection_size": 0.0,
+    "pairs": [
+      {
+        "a": "OpenGVLab__InternVL3-8B",
+        "b": "Qwen__Qwen2.5-VL-7B-Instruct",
+        "intersection": 7,
+        "union": 43,
+        "jaccard": 0.16279069767441862,
+        "lift_vs_chance": 0.0
+      },
+      {
+        "a": "OpenGVLab__InternVL3-8B",
+        "b": "Salesforce__blip2-opt-2.7b",
+        "intersection": 0,
+        "union": 50,
+        "jaccard": 0.0,
+        "lift_vs_chance": 0.0
+      },
+      {
+        "a": "OpenGVLab__InternVL3-8B",
+        "b": "StanfordAIMI__CheXagent-8b",
+        "intersection": 0,
+        "union": 50,
+        "jaccard": 0.0,
+        "lift_vs_chance": 0.0
+      },
+      {
+        "a": "OpenGVLab__InternVL3-8B",
+        "b": "llava-hf__llava-onevision-qwen2-7b-ov-hf",
+        "intersection": 0,
+        "union": 50,
+        "jaccard": 0.0,
+        "lift_vs_chance": 0.0
+      },
+      {
+        "a": "Qwen__Qwen2.5-VL-7B-Instruct",
+        "b": "Salesforce__blip2-opt-2.7b",
+        "intersection": 0,
+        "union": 50,
+        "jaccard": 0.0,
+        "lift_vs_chance": 0.0
+      },
+      {
+        "a": "Qwen__Qwen2.5-VL-7B-Instruct",
+        "b": "StanfordAIMI__CheXagent-8b",
+        "intersection": 0,
+        "union": 50,
+        "jaccard": 0.0,
+        "lift_vs_chance": 0.0
+      },
+      {
+        "a": "Qwen__Qwen2.5-VL-7B-Instruct",
+        "b": "llava-hf__llava-onevision-qwen2-7b-ov-hf",
+        "intersection": 0,
+        "union": 50,
+        "jaccard": 0.0,
+        "lift_vs_chance": 0.0
+      },
+      {
+        "a": "Salesforce__blip2-opt-2.7b",
+        "b": "StanfordAIMI__CheXagent-8b",
+        "intersection": 25,
+        "union": 25,
+        "jaccard": 1.0,
+        "lift_vs_chance": 0.0
+      },
+      {
+        "a": "Salesforce__blip2-opt-2.7b",
+        "b": "llava-hf__llava-onevision-qwen2-7b-ov-hf",
+        "intersection": 25,
+        "union": 25,
+        "jaccard": 1.0,
+        "lift_vs_chance": 0.0
+      },
+      {
+        "a": "StanfordAIMI__CheXagent-8b",
+        "b": "llava-hf__llava-onevision-qwen2-7b-ov-hf",
+        "intersection": 25,
+        "union": 25,
+        "jaccard": 1.0,
+        "lift_vs_chance": 0.0
+      }
+    ]
+  },
+  "vqa_rad": {
+    "benchmark": "vqa_rad",
+    "n_examples": 0,
+    "K": 25,
+    "expected_intersection_size": 0.0,
+    "pairs": [
+      {
+        "a": "OpenGVLab__InternVL3-8B",
+        "b": "Qwen__Qwen2.5-VL-7B-Instruct",
+        "intersection": 4,
+        "union": 46,
+        "jaccard": 0.08695652173913043,
+        "lift_vs_chance": 0.0
+      },
+      {
+        "a": "OpenGVLab__InternVL3-8B",
+        "b": "Salesforce__blip2-opt-2.7b",
+        "intersection": 0,
+        "union": 50,
+        "jaccard": 0.0,
+        "lift_vs_chance": 0.0
+      },
+      {
+        "a": "OpenGVLab__InternVL3-8B",
+        "b": "StanfordAIMI__CheXagent-8b",
+        "intersection": 0,
+        "union": 50,
+        "jaccard": 0.0,
+        "lift_vs_chance": 0.0
+      },
+      {
+        "a": "OpenGVLab__InternVL3-8B",
+        "b": "llava-hf__llava-onevision-qwen2-7b-ov-hf",
+        "intersection": 0,
+        "union": 50,
+        "jaccard": 0.0,
+        "lift_vs_chance": 0.0
+      },
+      {
+        "a": "Qwen__Qwen2.5-VL-7B-Instruct",
+        "b": "Salesforce__blip2-opt-2.7b",
+        "intersection": 0,
+        "union": 50,
+        "jaccard": 0.0,
+        "lift_vs_chance": 0.0
+      },
+      {
+        "a": "Qwen__Qwen2.5-VL-7B-Instruct",
+        "b": "StanfordAIMI__CheXagent-8b",
+        "intersection": 0,
+        "union": 50,
+        "jaccard": 0.0,
+        "lift_vs_chance": 0.0
+      },
+      {
+        "a": "Qwen__Qwen2.5-VL-7B-Instruct",
+        "b": "llava-hf__llava-onevision-qwen2-7b-ov-hf",
+        "intersection": 0,
+        "union": 50,
+        "jaccard": 0.0,
+        "lift_vs_chance": 0.0
+      },
+      {
+        "a": "Salesforce__blip2-opt-2.7b",
+        "b": "StanfordAIMI__CheXagent-8b",
+        "intersection": 21,
+        "union": 29,
+        "jaccard": 0.7241379310344828,
+        "lift_vs_chance": 0.0
+      },
+      {
+        "a": "Salesforce__blip2-opt-2.7b",
+        "b": "llava-hf__llava-onevision-qwen2-7b-ov-hf",
+        "intersection": 18,
+        "union": 32,
+        "jaccard": 0.5625,
+        "lift_vs_chance": 0.0
+      },
+      {
+        "a": "StanfordAIMI__CheXagent-8b",
+        "b": "llava-hf__llava-onevision-qwen2-7b-ov-hf",
+        "intersection": 14,
+        "union": 36,
+        "jaccard": 0.3888888888888889,
+        "lift_vs_chance": 0.0
+      }
+    ]
+  }
+}

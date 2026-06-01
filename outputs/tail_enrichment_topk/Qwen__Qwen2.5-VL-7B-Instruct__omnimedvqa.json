@@ -1,0 +1,102 @@
+[
+  {
+    "example_id": "omnimedvqa::train::003148",
+    "delta": -10.206286755695912
+  },
+  {
+    "example_id": "omnimedvqa::train::003138",
+    "delta": -13.176517702869072
+  },
+  {
+    "example_id": "omnimedvqa::train::003195",
+    "delta": -13.355900084370184
+  },
+  {
+    "example_id": "omnimedvqa::train::003198",
+    "delta": -14.873737499188469
+  },
+  {
+    "example_id": "omnimedvqa::train::003190",
+    "delta": -15.222028937277244
+  },
+  {
+    "example_id": "omnimedvqa::train::003192",
+    "delta": -15.355699373400713
+  },
+  {
+    "example_id": "omnimedvqa::train::003139",
+    "delta": -16.24368801876433
+  },
+  {
+    "example_id": "omnimedvqa::train::003202",
+    "delta": -16.40504241536352
+  },
+  {
+    "example_id": "omnimedvqa::train::003108",
+    "delta": -16.567987246269123
+  },
+  {
+    "example_id": "omnimedvqa::train::001517",
+    "delta": -17.098289323948293
+  },
+  {
+    "example_id": "omnimedvqa::train::003174",
+    "delta": -17.302583793842626
+  },
+  {
+    "example_id": "omnimedvqa::train::001131",
+    "delta": -17.49134930505736
+  },
+  {
+    "example_id": "omnimedvqa::train::003196",
+    "delta": -17.637672508805156
+  },
+  {
+    "example_id": "omnimedvqa::train::003144",
+    "delta": -17.666551354484294
+  },
+  {
+    "example_id": "omnimedvqa::train::003183",
+    "delta": -17.677784813454608
+  },
+  {
+    "example_id": "omnimedvqa::train::001846",
+    "delta": -17.696778037599383
+  },
+  {
+    "example_id": "omnimedvqa::train::003156",
+    "delta": -17.73408089947906
+  },
+  {
+    "example_id": "omnimedvqa::train::003143",
+    "delta": -18.069074330611443
+  },
+  {
+    "example_id": "omnimedvqa::train::003173",
+    "delta": -18.6570168405307
+  },
+  {
+    "example_id": "omnimedvqa::train::001211",
+    "delta": -19.060264189582032
+  },
+  {
+    "example_id": "omnimedvqa::train::003167",
+    "delta": -19.414406286888177
+  },
+  {
+    "example_id": "omnimedvqa::train::003176",
+    "delta": -19.512947717783444
+  },
+  {
+    "example_id": "omnimedvqa::train::003120",
+    "delta": -19.84514306823213
+  },
+  {
+    "example_id": "omnimedvqa::train::001478",
+    "delta": -19.962220639414447
+  },
+  {
+    "example_id": "omnimedvqa::train::001445",
+    "delta": -20.016679683954557
+  }
+]

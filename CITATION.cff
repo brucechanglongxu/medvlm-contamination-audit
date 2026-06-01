@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+title: >-
+  A Controlled Audit of Pretraining Contamination in Public Medical
+  Vision-Language Benchmarks
+message: >-
+  If you use this software or its findings, please cite the
+  accompanying paper.
+type: software
+authors:
+  - given-names: Bruce Changlong
+    family-names: Xu
+    email: brucechanglongxu@cs.stanford.edu
+    affiliation: Stanford University
+  - given-names: Lan
+    family-names: Wu
+repository-code: ""
+license: Apache-2.0
+keywords:
+  - data contamination
+  - benchmark integrity
+  - medical vision-language models
+  - membership inference
+  - data-centric machine learning
+preferred-citation:
+  type: article
+  title: >-
+    A Controlled Audit of Pretraining Contamination in Public Medical
+    Vision-Language Benchmarks
+  authors:
+    - given-names: Bruce Changlong
+      family-names: Xu
+      affiliation: Stanford University
+    - given-names: Lan
+      family-names: Wu
+  year: 2026

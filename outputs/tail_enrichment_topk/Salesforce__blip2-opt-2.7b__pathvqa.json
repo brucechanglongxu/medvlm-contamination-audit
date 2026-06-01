@@ -1,0 +1,102 @@
+[
+  {
+    "example_id": "pathvqa::test::005927",
+    "delta": 73.85863475777235
+  },
+  {
+    "example_id": "pathvqa::test::000279",
+    "delta": 68.495762555373
+  },
+  {
+    "example_id": "pathvqa::test::001960",
+    "delta": 56.26426932506887
+  },
+  {
+    "example_id": "pathvqa::test::001374",
+    "delta": 48.295103561940806
+  },
+  {
+    "example_id": "pathvqa::test::002892",
+    "delta": 46.47952845494766
+  },
+  {
+    "example_id": "pathvqa::test::002873",
+    "delta": 46.47952845494766
+  },
+  {
+    "example_id": "pathvqa::test::001915",
+    "delta": 45.5530324285822
+  },
+  {
+    "example_id": "pathvqa::test::003311",
+    "delta": 45.41810483131236
+  },
+  {
+    "example_id": "pathvqa::test::003305",
+    "delta": 45.41810483131236
+  },
+  {
+    "example_id": "pathvqa::test::002008",
+    "delta": 41.997986276816384
+  },
+  {
+    "example_id": "pathvqa::test::002055",
+    "delta": 41.703375611685736
+  },
+  {
+    "example_id": "pathvqa::test::001311",
+    "delta": 41.056510257098715
+  },
+  {
+    "example_id": "pathvqa::test::002729",
+    "delta": 40.88132038875837
+  },
+  {
+    "example_id": "pathvqa::test::000411",
+    "delta": 40.758339597202706
+  },
+  {
+    "example_id": "pathvqa::test::000412",
+    "delta": 39.88914613549947
+  },
+  {
+    "example_id": "pathvqa::test::005915",
+    "delta": 39.489140662521095
+  },
+  {
+    "example_id": "pathvqa::test::005202",
+    "delta": 36.589771985911206
+  },
+  {
+    "example_id": "pathvqa::test::006170",
+    "delta": 36.19300919608019
+  },
+  {
+    "example_id": "pathvqa::test::005629",
+    "delta": 35.925824731864
+  },
+  {
+    "example_id": "pathvqa::test::005548",
+    "delta": 35.69600701398782
+  },
+  {
+    "example_id": "pathvqa::test::003381",
+    "delta": 35.28995932423122
+  },
+  {
+    "example_id": "pathvqa::test::003374",
+    "delta": 35.28995932423122
+  },
+  {
+    "example_id": "pathvqa::test::000397",
+    "delta": 35.224491756140424
+  },
+  {
+    "example_id": "pathvqa::test::004305",
+    "delta": 35.194409374084174
+  },
+  {
+    "example_id": "pathvqa::test::002416",
+    "delta": 34.90191639539134
+  }
+]

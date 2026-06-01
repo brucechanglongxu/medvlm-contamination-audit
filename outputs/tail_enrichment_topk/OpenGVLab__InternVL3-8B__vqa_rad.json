@@ -1,0 +1,102 @@
+[
+  {
+    "example_id": "vqa_rad::test::000065",
+    "delta": 0.9561699932976158
+  },
+  {
+    "example_id": "vqa_rad::test::000390",
+    "delta": 0.671603769015988
+  },
+  {
+    "example_id": "vqa_rad::test::000337",
+    "delta": 0.43494898887690425
+  },
+  {
+    "example_id": "vqa_rad::test::000443",
+    "delta": 0.35315037051976006
+  },
+  {
+    "example_id": "vqa_rad::test::000011",
+    "delta": -0.14026326208897544
+  },
+  {
+    "example_id": "vqa_rad::test::000379",
+    "delta": -0.20371016131556097
+  },
+  {
+    "example_id": "vqa_rad::test::000028",
+    "delta": -0.22784126689759798
+  },
+  {
+    "example_id": "vqa_rad::test::000056",
+    "delta": -0.5730813055003043
+  },
+  {
+    "example_id": "vqa_rad::test::000068",
+    "delta": -0.6010866322612589
+  },
+  {
+    "example_id": "vqa_rad::test::000300",
+    "delta": -0.708160622812489
+  },
+  {
+    "example_id": "vqa_rad::test::000285",
+    "delta": -0.8247216332250069
+  },
+  {
+    "example_id": "vqa_rad::test::000363",
+    "delta": -1.0406035922323618
+  },
+  {
+    "example_id": "vqa_rad::test::000029",
+    "delta": -1.1082423250425144
+  },
+  {
+    "example_id": "vqa_rad::test::000055",
+    "delta": -1.120294959838109
+  },
+  {
+    "example_id": "vqa_rad::test::000069",
+    "delta": -1.166423917285747
+  },
+  {
+    "example_id": "vqa_rad::test::000365",
+    "delta": -1.181232543423092
+  },
+  {
+    "example_id": "vqa_rad::test::000369",
+    "delta": -1.181237410669448
+  },
+  {
+    "example_id": "vqa_rad::test::000205",
+    "delta": -1.2122064055359596
+  },
+  {
+    "example_id": "vqa_rad::test::000145",
+    "delta": -1.2699061564632839
+  },
+  {
+    "example_id": "vqa_rad::test::000229",
+    "delta": -1.2859977854731923
+  },
+  {
+    "example_id": "vqa_rad::test::000092",
+    "delta": -1.3289619525456438
+  },
+  {
+    "example_id": "vqa_rad::test::000057",
+    "delta": -1.3457980748059981
+  },
+  {
+    "example_id": "vqa_rad::test::000239",
+    "delta": -1.497476303987928
+  },
+  {
+    "example_id": "vqa_rad::test::000261",
+    "delta": -1.6312893446214103
+  },
+  {
+    "example_id": "vqa_rad::test::000204",
+    "delta": -1.6761608917699728
+  }
+]

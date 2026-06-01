@@ -1,0 +1,89 @@
+{
+  "backbone": "siglip_b16",
+  "sweep": [
+    {
+      "alpha": 0.001,
+      "threshold": 0.011440925300121307,
+      "slake_en__n_img": 96,
+      "slake_en__img_flag": 0,
+      "slake_en__img_pct": 0.0,
+      "slake_en__qa_flag": 0,
+      "slake_en__triple": 0,
+      "pathvqa__n_img": 6719,
+      "pathvqa__img_flag": 0,
+      "pathvqa__img_pct": 0.0,
+      "pathvqa__qa_flag": 0,
+      "pathvqa__triple": 0
+    },
+    {
+      "alpha": 0.005,
+      "threshold": 0.016068704426288605,
+      "slake_en__n_img": 96,
+      "slake_en__img_flag": 12,
+      "slake_en__img_pct": 12.5,
+      "slake_en__qa_flag": 158,
+      "slake_en__triple": 1,
+      "pathvqa__n_img": 6719,
+      "pathvqa__img_flag": 0,
+      "pathvqa__img_pct": 0.0,
+      "pathvqa__qa_flag": 0,
+      "pathvqa__triple": 0
+    },
+    {
+      "alpha": 0.01,
+      "threshold": 0.01801316998898983,
+      "slake_en__n_img": 96,
+      "slake_en__img_flag": 19,
+      "slake_en__img_pct": 19.79,
+      "slake_en__qa_flag": 247,
+      "slake_en__triple": 5,
+      "pathvqa__n_img": 6719,
+      "pathvqa__img_flag": 0,
+      "pathvqa__img_pct": 0.0,
+      "pathvqa__qa_flag": 0,
+      "pathvqa__triple": 0
+    },
+    {
+      "alpha": 0.02,
+      "threshold": 0.021013572812080383,
+      "slake_en__n_img": 96,
+      "slake_en__img_flag": 28,
+      "slake_en__img_pct": 29.17,
+      "slake_en__qa_flag": 361,
+      "slake_en__triple": 6,
+      "pathvqa__n_img": 6719,
+      "pathvqa__img_flag": 0,
+      "pathvqa__img_pct": 0.0,
+      "pathvqa__qa_flag": 0,
+      "pathvqa__triple": 0
+    },
+    {
+      "alpha": 0.05,
+      "threshold": 0.026820462197065353,
+      "slake_en__n_img": 96,
+      "slake_en__img_flag": 42,
+      "slake_en__img_pct": 43.75,
+      "slake_en__qa_flag": 536,
+      "slake_en__triple": 11,
+      "pathvqa__n_img": 6719,
+      "pathvqa__img_flag": 11,
+      "pathvqa__img_pct": 0.16,
+      "pathvqa__qa_flag": 11,
+      "pathvqa__triple": 0
+    },
+    {
+      "alpha": 0.1,
+      "threshold": 0.03392837569117546,
+      "slake_en__n_img": 96,
+      "slake_en__img_flag": 59,
+      "slake_en__img_pct": 61.46,
+      "slake_en__qa_flag": 705,
+      "slake_en__triple": 19,
+      "pathvqa__n_img": 6719,
+      "pathvqa__img_flag": 223,
+      "pathvqa__img_pct": 3.32,
+      "pathvqa__qa_flag": 223,
+      "pathvqa__triple": 0
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "n_dual_detector": 64,
+  "n_image_nn_flagged_qa": 247,
+  "n_triple_detector": 5,
+  "triple_detector_hits": [
+    {
+      "example_id": "slake_en::test::12035",
+      "detectors": "loss_attack,mink_pp",
+      "image_nn_distance": 0.014919877052307129,
+      "image_nn_corpus_id": "caption_T060_filtered_top4_sep_v0_subfigures/PMC8424947_Fig3_53838.jpg"
+    },
+    {
+      "example_id": "slake_en::test::12322",
+      "detectors": "loss_attack,mink_pp",
+      "image_nn_distance": 0.017891645431518555,
+      "image_nn_corpus_id": "caption_T060_filtered_top4_sep_v0_subfigures/PMC2569031_F2_28934.jpg"
+    },
+    {
+      "example_id": "slake_en::test::12822",
+      "detectors": "loss_attack,mink_pp",
+      "image_nn_distance": 0.016809463500976562,
+      "image_nn_corpus_id": "caption_T060_filtered_top4_sep_v0_subfigures/PMC4302363_fig1_352081.jpg"
+    },
+    {
+      "example_id": "slake_en::test::12832",
+      "detectors": "loss_attack,mink_pp",
+      "image_nn_distance": 0.016809463500976562,
+      "image_nn_corpus_id": "caption_T060_filtered_top4_sep_v0_subfigures/PMC4302363_fig1_352081.jpg"
+    },
+    {
+      "example_id": "slake_en::test::12833",
+      "detectors": "loss_attack,mink_pp",
+      "image_nn_distance": 0.016809463500976562,
+      "image_nn_corpus_id": "caption_T060_filtered_top4_sep_v0_subfigures/PMC4302363_fig1_352081.jpg"
+    }
+  ]
+}
