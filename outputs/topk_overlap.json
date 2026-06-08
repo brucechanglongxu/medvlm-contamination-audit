@@ -1,9 +1,9 @@
 {
   "omnimedvqa": {
     "benchmark": "omnimedvqa",
-    "n_examples": 0,
+    "n_examples": 4999,
     "K": 25,
-    "expected_intersection_size": 0.0,
+    "expected_intersection_size": 0.1250250050010002,
     "pairs": [
       {
         "a": "OpenGVLab__InternVL3-8B",
@@ -11,7 +11,7 @@
         "intersection": 2,
         "union": 48,
         "jaccard": 0.041666666666666664,
-        "lift_vs_chance": 0.0
+        "lift_vs_chance": 15.9968
       },
       {
         "a": "OpenGVLab__InternVL3-8B",
@@ -67,7 +67,7 @@
         "intersection": 15,
         "union": 35,
         "jaccard": 0.42857142857142855,
-        "lift_vs_chance": 0.0
+        "lift_vs_chance": 119.976
       },
       {
         "a": "Salesforce__blip2-opt-2.7b",
@@ -75,7 +75,7 @@
         "intersection": 1,
         "union": 49,
         "jaccard": 0.02040816326530612,
-        "lift_vs_chance": 0.0
+        "lift_vs_chance": 7.9984
       },
       {
         "a": "StanfordAIMI__CheXagent-8b",
@@ -89,9 +89,9 @@
   },
   "pathvqa": {
     "benchmark": "pathvqa",
-    "n_examples": 0,
+    "n_examples": 6719,
     "K": 25,
-    "expected_intersection_size": 0.0,
+    "expected_intersection_size": 0.0930197946122935,
     "pairs": [
       {
         "a": "OpenGVLab__InternVL3-8B",
@@ -107,7 +107,7 @@
         "intersection": 4,
         "union": 46,
         "jaccard": 0.08695652173913043,
-        "lift_vs_chance": 0.0
+        "lift_vs_chance": 43.001599999999996
       },
       {
         "a": "OpenGVLab__InternVL3-8B",
@@ -115,7 +115,7 @@
         "intersection": 4,
         "union": 46,
         "jaccard": 0.08695652173913043,
-        "lift_vs_chance": 0.0
+        "lift_vs_chance": 43.001599999999996
       },
       {
         "a": "OpenGVLab__InternVL3-8B",
@@ -155,7 +155,7 @@
         "intersection": 17,
         "union": 33,
         "jaccard": 0.5151515151515151,
-        "lift_vs_chance": 0.0
+        "lift_vs_chance": 182.7568
       },
       {
         "a": "Salesforce__blip2-opt-2.7b",
@@ -163,7 +163,7 @@
         "intersection": 14,
         "union": 36,
         "jaccard": 0.3888888888888889,
-        "lift_vs_chance": 0.0
+        "lift_vs_chance": 150.5056
       },
       {
         "a": "StanfordAIMI__CheXagent-8b",
@@ -171,15 +171,15 @@
         "intersection": 11,
         "union": 39,
         "jaccard": 0.28205128205128205,
-        "lift_vs_chance": 0.0
+        "lift_vs_chance": 118.2544
       }
     ]
   },
   "slake_en": {
     "benchmark": "slake_en",
-    "n_examples": 0,
+    "n_examples": 1061,
     "K": 25,
-    "expected_intersection_size": 0.0,
+    "expected_intersection_size": 0.589066918001885,
     "pairs": [
       {
         "a": "OpenGVLab__InternVL3-8B",
@@ -187,7 +187,7 @@
         "intersection": 7,
         "union": 43,
         "jaccard": 0.16279069767441862,
-        "lift_vs_chance": 0.0
+        "lift_vs_chance": 11.883199999999999
       },
       {
         "a": "OpenGVLab__InternVL3-8B",
@@ -243,7 +243,7 @@
         "intersection": 25,
         "union": 25,
         "jaccard": 1.0,
-        "lift_vs_chance": 0.0
+        "lift_vs_chance": 42.44
       },
       {
         "a": "Salesforce__blip2-opt-2.7b",
@@ -251,7 +251,7 @@
         "intersection": 25,
         "union": 25,
         "jaccard": 1.0,
-        "lift_vs_chance": 0.0
+        "lift_vs_chance": 42.44
       },
       {
         "a": "StanfordAIMI__CheXagent-8b",
@@ -259,15 +259,15 @@
         "intersection": 25,
         "union": 25,
         "jaccard": 1.0,
-        "lift_vs_chance": 0.0
+        "lift_vs_chance": 42.44
       }
     ]
   },
   "vqa_rad": {
     "benchmark": "vqa_rad",
-    "n_examples": 0,
+    "n_examples": 451,
     "K": 25,
-    "expected_intersection_size": 0.0,
+    "expected_intersection_size": 1.3858093126385809,
     "pairs": [
       {
         "a": "OpenGVLab__InternVL3-8B",
@@ -275,7 +275,7 @@
         "intersection": 4,
         "union": 46,
         "jaccard": 0.08695652173913043,
-        "lift_vs_chance": 0.0
+        "lift_vs_chance": 2.8864
       },
       {
         "a": "OpenGVLab__InternVL3-8B",
@@ -331,7 +331,7 @@
         "intersection": 21,
         "union": 29,
         "jaccard": 0.7241379310344828,
-        "lift_vs_chance": 0.0
+        "lift_vs_chance": 15.1536
       },
       {
         "a": "Salesforce__blip2-opt-2.7b",
@@ -339,7 +339,7 @@
         "intersection": 18,
         "union": 32,
         "jaccard": 0.5625,
-        "lift_vs_chance": 0.0
+        "lift_vs_chance": 12.988800000000001
       },
       {
         "a": "StanfordAIMI__CheXagent-8b",
@@ -347,7 +347,7 @@
         "intersection": 14,
         "union": 36,
         "jaccard": 0.3888888888888889,
-        "lift_vs_chance": 0.0
+        "lift_vs_chance": 10.102400000000001
       }
     ]
   }
