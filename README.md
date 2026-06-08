@@ -5,7 +5,7 @@ vision–language (VLM) benchmarks. This repository contains the detector
 toolkit, unit tests, and reproducibility scripts accompanying the paper:
 
 > **A Controlled Audit of Pretraining Contamination in Public Medical
-> Vision–Language Benchmarks.** Bruce Changlong Xu, Lan Wu.
+> Vision–Language Benchmarks.** Bruce Changlong Xu, Lan Wu, Alexander Ryu
 
 Public medical VQA benchmarks (SLAKE, PathVQA, VQA-RAD, OmniMedVQA) have been
 freely downloadable for years, yet reported accuracy implicitly assumes their
